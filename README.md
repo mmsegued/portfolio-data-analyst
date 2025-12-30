@@ -37,6 +37,9 @@ Présenter mes projets et livrables réalisés (parcours OpenClassrooms) et dém
 ![Dashboard Veille](docs/dashboard_veille.png)
 ![Dashboard Profil](docs/dashboard_profil.png)
 
+## Démo vidéo (Loom)
+https://www.loom.com/share/03d5e52e7cfe4112b5444bb0aabde92d
+
 
 ## 📫 Contact
 - Email : (mseguedelmehdi@gmail.com)
