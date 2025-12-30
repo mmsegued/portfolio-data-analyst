@@ -26,12 +26,24 @@ Présenter mes projets et livrables réalisés (parcours OpenClassrooms) et dém
 - Étude de marché
 - SQL : requêtes + base immobilière
 
-   ## Livrables (Aéroworld)
+ ##  Livrables (Aéroworld)
 
--  Carte mentale (graphique) : [PDF](docs/Carte%20Mentale%20Portfolio%20Aeroworld.pdf)
--  Mockups (Veille + Profil + structure portfolio) : [PDF](docs/mockups_dashboards_portfolio.pdf)
--  Dashboard Veille (capture) : [PNG](docs/dashboard_veille.png)
--  Dashboard Profil (capture) : [PNG](docs/dashboard_profil.png)
+### Étape 1 — Carte mentale
+- Carte mentale (graphique) : [PDF](Carte%20Mentale%20Portfolio%20Aeroworld.pdf)
+
+### Étape 2 — Livrables organisationnels
+- Analyse du besoin métier client : [PDF](Analyse_besoin_metier_client.pdf)
+- Cahier des charges du projet portfolio : [PDF](Cahier_des_charges_projet_portfolio.pdf)
+- Diagramme de Gantt : [PDF](Diagramme_de_Gantt_portfolio.pdf)
+
+### Étape 3 — Mockups + Dashboards
+- Mockups (Veille + Profil + structure portfolio) : [PDF](mockups_dashboards_portfolio.pdf)
+- Dashboard Veille (capture) : [PNG](dashboard_veille.png)
+- Dashboard Profil (capture) : [PNG](dashboard_profil.png)
+
+### Étape 4 — Documentation + vidéo
+- Documentation dashboards Power BI : [PDF](Documentation_dashboards_PowerBI.pdf)
+- Démo vidéo (Loom) : https://www.loom.com/share/03d5e52e7cfe4112b5444bb0aabde92d
 
 ### Aperçu
 ![Dashboard Veille](docs/dashboard_veille.png)
